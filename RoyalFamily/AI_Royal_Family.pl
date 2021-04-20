@@ -249,9 +249,9 @@ parent(james, edward).
 parent(james, sophie).
 
 male(georgeLouise).
-birth(princeGeorge, 2013).
-parent(princeGeorge, william).
-parent(princeGeorge, catherine).
+birth(georgeLouise, 2013).
+parent(georgeLouise, william).
+parent(georgeLouise, catherine).
 
 female(charlotte).
 birth(charlotte, 2015).
@@ -272,6 +272,11 @@ female(savannah).
 birth(savannah, 2010).
 parent(savannah, peter).
 parent(savannah, autumn).
+
+female(isla).
+birth(isla, 2012).
+parent(isla, peter).
+parent(isla, autumn).
 
 female(mia).
 birth(mia, 2014).
